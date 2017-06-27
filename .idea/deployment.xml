@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/riphord/JRTestTask" uploadOnCheckin="c04c007b-1f63-4ce5-acb7-a853897e1d27">
+    <serverData>
+      <paths name="https://github.com/riphord/JRTestTask">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/riphord/JRTestTask" />
+  </component>
+</project>
